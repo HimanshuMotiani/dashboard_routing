@@ -17,7 +17,6 @@ function Articles() {
             </>
           ))}
         </ul>
-        );
       </div>
     </>
   );

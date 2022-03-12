@@ -1,6 +1,6 @@
 import Header from './Header'
 import Sidebar from './Sidebar'
-import Home from './Home'
+import Main from './Main'
 function App(params) {
     
     return (
@@ -9,7 +9,7 @@ function App(params) {
         <Header/>
         <div className="flex">
         <Sidebar/>
-        <Home/>
+        <Main/>
         </div>
         </div>
         </>

@@ -2,7 +2,7 @@ import {Link, NavLink} from "react-router-dom";
 function Home() {
     return (
         <>
-        <div className="flex-80 home-section">
+        <div>
         <h3>Welcome to Home Page</h3>
         <nav>
             <ul className="flex space-evenly">
